@@ -1,4 +1,6 @@
 User-agent: * 
-Disallow: https://ari.se.net/config/*
+Disallow: https://violoncelle.be/config/*
+Disallow: https://violoncelle.be/blog/reprenez-le-controle/
+Disallow: https://violoncelle.be/blog/mes-abonnements-rss/
 
-Sitemap: https://ari.se.net/sitemap.xml
+Sitemap: https://violoncelle.be/sitemap.xml
